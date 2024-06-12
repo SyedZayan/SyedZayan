@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @SyedZayanAli
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on Frontend Development
+- 👀 I’m interested in Technology 
+- 🌱 I’m currently pursuing Bachelors of Computer Science from University of Karachi
+- 🌱 I’m also enrolled in Certified AI, Metaverse, and Web 3.0 Developer & Solopreneur (WMD) Course
+- 💞️ I’m looking to collaborate on different Tech related Stuff
+- 📫 Reach me via Linkedin: https://www.linkedin.com/in/syed-zayan-ali-586969226/
 - 📫 Reach me via email: zayanali2003@gmail.com
 
 <!---
